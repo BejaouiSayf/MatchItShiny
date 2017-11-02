@@ -1,0 +1,13 @@
+Package: MatchItShiny
+Version: 0.1.0
+Date: 2017/07/19
+Title: An Interactive Visualisation And Performing Impacts Analysis
+Description: An interactive application to visualise and perform impacts analysis as evaluation impacts litterature in economics. The interface is based on the Shiny web application framework, though can be run locally and with the user's own data.
+Licence: GPL (>= 2)
+NeedsCompilation: no
+Depends: shiny,
+    MatchIt, 
+    cem, 
+    e1071
+Author: Bejaoui Sayf <bejaoui@gmail.com>
+Maintainer: Bejaoui Sayf <bejaoui@gmail.com>
