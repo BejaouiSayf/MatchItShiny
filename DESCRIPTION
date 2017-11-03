@@ -6,8 +6,11 @@ Description: An interactive application to visualise and perform impacts analysi
 Licence: GPL (>= 2)
 NeedsCompilation: no
 Depends: shiny,
+    Matching, 
     MatchIt, 
     cem, 
-    e1071
+    optmatch, 
+    e1071, 
+    Zelig
 Author: Bejaoui Sayf <bejaoui@gmail.com>
 Maintainer: Bejaoui Sayf <bejaoui@gmail.com>
