@@ -27,13 +27,9 @@ To intal it:
 library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
-<hr>
 ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif)
-
-<hr>
+To play with:
 ![Demo Use](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Use%20MatchItShiny.gif)
-
-<hr>
 [Link Title](Link Source) 
 ### What's new
 
