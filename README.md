@@ -28,9 +28,10 @@ library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
 ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif)
-To play with:
+
 ![Demo Use](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Use%20MatchItShiny.gif)
-[Link Title](Link Source) 
+
+
 ### What's new
 
 The package is working fine.
