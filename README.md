@@ -27,12 +27,13 @@ To intal it:
 library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
-
-![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif)
 <hr>
+![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif)
+
 <hr>
 ![Demo Use](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Use%20MatchItShiny.gif)
 
+<hr>
 [Link Title](Link Source) 
 ### What's new
 
