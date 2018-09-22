@@ -29,7 +29,8 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
 
 ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif)
-
+<hr>
+<hr>
 ![Demo Use](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Use%20MatchItShiny.gif)
 
 [Link Title](Link Source) 
