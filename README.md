@@ -27,9 +27,11 @@ To intal it:
 library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
-![](https://i.imgur.com/dSD7Vi1.gifv)
+![install 2 devtools only more compressed](https://user-images.githubusercontent.com/19627220/45932574-83a1be80-bf7e-11e8-8d2f-c21a50b2d22b.gif)
 
-<!-- ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif)   -->
+<!--![](https://i.imgur.com/dSD7Vi1.gifv) -->
+
+<!-- ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif) -->
 <hr>
 
 Another GIF to show the demo Use:   
