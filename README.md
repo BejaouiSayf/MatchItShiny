@@ -27,7 +27,7 @@ To intal it:
 library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
-![install 2 devtools only more compressed](https://user-images.githubusercontent.com/19627220/45932574-83a1be80-bf7e-11e8-8d2f-c21a50b2d22b.gif)
+![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)
 
 <!--![](https://i.imgur.com/dSD7Vi1.gifv) -->
 
