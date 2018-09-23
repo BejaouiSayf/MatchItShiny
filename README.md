@@ -32,7 +32,10 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 <br>
 ![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)  
 <br>
+<br>
+<br>
 **Second step : install MatchItShiny**  
+<br>
 <br>
 ![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
 
