@@ -29,7 +29,7 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
 ![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)
 
-<!--![](https://i.imgur.com/dSD7Vi1.gifv) -->
+![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
 
 <!-- ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif) -->
 <hr>
