@@ -21,8 +21,8 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 <br>
 ![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)  
 <br>
-<br>
 <hr>
+<br>
 **Second step : install MatchItShiny**  
 <br>
 ![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
@@ -30,9 +30,7 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 
 ![Demo Launch MatchItShiny](https://user-images.githubusercontent.com/19627220/45975326-3e47c480-c044-11e8-9079-e650a3b9a72f.gif)
 
-Another GIF to show the demo Use:   
 
-<!-- ![Demo Use](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Use%20MatchItShiny.gif)-->
 
 ![](https://www.iloveimg.com/fr/download/3smq1ghw0hcnrdmc03s8cfzbh1n5rztwls2lk27p0kg9fqft3lyftzpr4rbzfp88kp4fy98pfb9rzfg7nj1wg4nzqpry1dvjz657l6nf9h2bAkgpd7q1n96fc4y2r8yAhzmjj55xfbzbjA1f4ypgn388tkg67db50wh6z9gxq4gr2z8fdvz1/1)
 
