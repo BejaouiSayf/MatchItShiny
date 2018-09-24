@@ -17,17 +17,19 @@ library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
 
-**First step : you need to install devtools**  
+**First step: you need to install devtools**  
 <br>
 ![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)  
 <br>
 <hr>
 <br>
-**Second step : install MatchItShiny**  
+**Second step: install MatchItShiny**  
 <br>
 ![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
+<br>
 <hr>
-
+<br>
+**Third step: lanch MatchItShiny**  
 ![Demo Launch MatchItShiny](https://user-images.githubusercontent.com/19627220/45975326-3e47c480-c044-11e8-9079-e650a3b9a72f.gif)
 
 
