@@ -42,6 +42,8 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 <!-- ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif) -->
 <hr>
 
+![Demo Launch MatchItShiny](https://user-images.githubusercontent.com/19627220/45975326-3e47c480-c044-11e8-9079-e650a3b9a72f.gif)
+
 Another GIF to show the demo Use:   
 
 <!-- ![Demo Use](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Use%20MatchItShiny.gif)-->
