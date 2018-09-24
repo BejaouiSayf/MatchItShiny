@@ -32,5 +32,4 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 ```R
 MatchItShiny::MatchItShiny()
 ```
-<br>
 ![Demo Launch MatchItShiny](https://user-images.githubusercontent.com/19627220/45975326-3e47c480-c044-11e8-9079-e650a3b9a72f.gif)
