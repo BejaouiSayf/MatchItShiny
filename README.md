@@ -25,7 +25,6 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 <br>
 **Second step : install MatchItShiny**  
 <br>
-<br>
 ![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
 
 <!-- ![Demo Install](https://github.com/BejaouiSayf/MatchItShiny/blob/master/Demo%20Install%20MatchItShiny.gif) -->
