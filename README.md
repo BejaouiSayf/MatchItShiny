@@ -11,30 +11,27 @@ The package is working fine. I'm always happy to hear about what doesn't work fo
 
 ## Updating to the latest version of `MatchItShiny`
 
-To install it:
-
+To install it:  
+**First step: you need to install devtools**  
 ```R
 install.packages("devtools")
 library(devtools)
-# devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
-
-**First step: you need to install devtools**  
-<br>
 ![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)  
 <br>
 <br>
+**Second step: install MatchItShiny**  
 ```R
-# install.packages("devtools")
-# library(devtools)
 devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
-**Second step: install MatchItShiny**  
 <br>
 ![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
 <br>
 <br>
 <br>
-**Third step: lanch MatchItShiny**  
+**Third step: lanch MatchItShiny** 
+```R
+MatchItShiny::MatchItShiny()
+```
 <br>
 ![Demo Launch MatchItShiny](https://user-images.githubusercontent.com/19627220/45975326-3e47c480-c044-11e8-9079-e650a3b9a72f.gif)
