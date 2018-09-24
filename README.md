@@ -14,9 +14,9 @@ The package is working fine. I'm always happy to hear about what doesn't work fo
 To install it:
 
 ```R
-# install.packages("devtools")
+install.packages("devtools")
 library(devtools)
-devtools::install_github("BejaouiSayf/MatchItShiny")
+# devtools::install_github("BejaouiSayf/MatchItShiny")
 ```
 
 **First step: you need to install devtools**  
@@ -24,6 +24,11 @@ devtools::install_github("BejaouiSayf/MatchItShiny")
 ![Demo Install devtools R package](https://user-images.githubusercontent.com/19627220/45932929-7daedc00-bf84-11e8-946d-20fa0e6410bd.gif)  
 <br>
 <br>
+```R
+# install.packages("devtools")
+# library(devtools)
+devtools::install_github("BejaouiSayf/MatchItShiny")
+```
 **Second step: install MatchItShiny**  
 <br>
 ![Demo Install MatchItShiny](https://user-images.githubusercontent.com/19627220/45933170-daf85c80-bf87-11e8-8843-f6cf3d16da69.gif)
