@@ -2,10 +2,10 @@
 
 Keywords: *propensity score matching, multivariate matching, genetic optimization, causal inference, R.*
 
+`MatchItShiny` is an interactive application to visualise and perform impacts analysis. The interface is based on the Shiny web application framework, though can be run locally and with the user's own data.
+
 **Fields**: each fields where you use method of causal inference - statistics (see for e.g Rubin 2006; Rosenbaum 2002), medecine (Christakis and Iwashyna 2003; Rubin 1997), economics  (Abadie and Imbens 2006; Dehejia and Wahba 2002, 1999), political science (Bowers and Hansen 2005; Herron and Wand 2007; Imai 2005), sociology (Morgan and Harding 2006; Diprete and Engelhardt 2004; Winship and Morgan 1999; Smith 1997) and even law (Rubin 2001).
 
-
-`MatchItShiny` is an interactive application to visualise and perform impacts analysis. The interface is based on the Shiny web application framework, though can be run locally and with the user's own data.
 
 ## Updating to the latest version of `MatchItShiny`
 
